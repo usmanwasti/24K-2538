@@ -1,0 +1,7 @@
+Control Module
+START
+Input n,Nth
+Divide n by Nth
+IF result is integer divide it by 2 ELSE Stop
+IF result of that is also integer then PRINT 'Even' ELSE PRINT 'Odd'
+END
