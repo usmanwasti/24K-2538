@@ -1,0 +1,6 @@
+Control Module
+START
+Input N and 12 months
+Assign sequential mumbers to months from January till December
+IF number is an integer between 1 and 12 PRINT corresponding month Else PRINT 'Error'
+END
