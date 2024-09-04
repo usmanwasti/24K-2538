@@ -1,0 +1,6 @@
+START
+INPUT N1,N2,N3
+IF N1>N2 and N1>N3 then PRINT N1
+Else, IF N2>N1 and N2>N3 then PRINT N2
+Else, PRINT N3
+END
