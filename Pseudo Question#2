@@ -1,0 +1,7 @@
+START
+INPUT N1,N2,N3
+Put - operator before each value
+Solve
+Multiply result by '-'
+Display Final Result
+END
