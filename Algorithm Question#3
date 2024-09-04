@@ -1,0 +1,9 @@
+Control Module
+START
+INPUT Value1
+INPUT Operator= + or - or * or ÷
+IF Operator= + then, INPUT Value2 then ADD
+Else, IF Operator= - then, INPUT Value2 then Subtract from Value1
+Else, IF Operator= * then, INPUT Value2 then Multiply
+Else, IF Operator= ÷ then, INPUT Value2 then Divide Value1 by Value2
+END
