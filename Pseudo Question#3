@@ -1,0 +1,10 @@
+START
+Set SUM=0
+Input Value1
+Input Operator // + OR -
+IF Operator= + then Input Value3 then calculate Value1 + Value3
+Else, IF Value2= - then Input Value3 then calculate Value1 - Value3
+Else, 
+Print 'Error'
+Display Result
+END
